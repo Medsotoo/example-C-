@@ -1,0 +1,15 @@
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.csproj.AssemblyReference.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.AssemblyInfoInputs.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.AssemblyInfo.cs
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.csproj.CoreCompileInputs.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\bin\Debug\net6.0\example009_DZ.exe
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\bin\Debug\net6.0\example009_DZ.deps.json
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\bin\Debug\net6.0\example009_DZ.runtimeconfig.json
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\bin\Debug\net6.0\example009_DZ.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\bin\Debug\net6.0\example009_DZ.pdb
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\refint\example009_DZ.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.pdb
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\example009_DZ.genruntimeconfig.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example009_DZ\obj\Debug\net6.0\ref\example009_DZ.dll
