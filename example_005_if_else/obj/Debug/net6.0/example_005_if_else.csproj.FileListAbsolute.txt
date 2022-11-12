@@ -1,0 +1,15 @@
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.csproj.AssemblyReference.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.AssemblyInfoInputs.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.AssemblyInfo.cs
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.csproj.CoreCompileInputs.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\bin\Debug\net6.0\example_005_if_else.exe
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\bin\Debug\net6.0\example_005_if_else.deps.json
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\bin\Debug\net6.0\example_005_if_else.runtimeconfig.json
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\bin\Debug\net6.0\example_005_if_else.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\bin\Debug\net6.0\example_005_if_else.pdb
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\refint\example_005_if_else.dll
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.pdb
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\example_005_if_else.genruntimeconfig.cache
+C:\Users\sergey\OneDrive\Рабочий стол\Example C#\example_005_if_else\obj\Debug\net6.0\ref\example_005_if_else.dll
